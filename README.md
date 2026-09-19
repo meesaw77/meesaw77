@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Waseem+Aslam!;Flutter+%7C+Dart+%7C+React+Native;Mobile+App+Developer+%F0%9F%9A%80;4%2B+Years+of+Experience!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</p>
+
 # Hi 👋, I'm Waseem Aslam
 
 ### 🚀 Passionate Mobile App Developer | Flutter | Dart | React Native
@@ -15,6 +23,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseem-%F0%9D%91%A8%F0%9D%92%94%F0%9D%92%8D%F0%9D%92%82%F0%9D%92%8E-295443376)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010107a68bd9b8d775?mp_source=share)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev.me_7)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
 
 ## ✅ What I Can Build:
 🚚 Logistics & Fleet Management Apps
